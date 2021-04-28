@@ -1,0 +1,2 @@
+nrow(employees)
+ncol(employees)
