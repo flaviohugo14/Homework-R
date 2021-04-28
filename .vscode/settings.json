@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "datalabs-metabase.caowzlrbztjs.us-east-1.rds.amazonaws.com",
+            "port": 5433,
+            "driver": "AWS Redshift",
+            "name": "Metabase",
+            "database": "metabase",
+            "username": "datalabs",
+            "password": "t&embici-T3mb!"
+        },
+        {
+            "previewLimit": 50,
+            "server": "redshift-analytics.cuhuswrrmu0m.us-east-1.redshift.amazonaws.com",
+            "port": 5439,
+            "driver": "AWS Redshift",
+            "name": "Redshift",
+            "database": "dev",
+            "username": "flavio_pangracio",
+            "password": "4tk0xytjyJg7gh91"
+        }
+    ],
+    "jupyter.jupyterServerType": "local"
+}
